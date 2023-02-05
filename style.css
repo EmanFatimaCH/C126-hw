@@ -16,6 +16,11 @@
     .play{
     float: middle;
     }
+
+    .play_button{
+    width: 130px;
+    font-size: 20px;
+    }
  
     canvas{
         border: 5px solid white;
